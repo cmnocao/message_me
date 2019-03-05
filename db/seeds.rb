@@ -21,4 +21,3 @@ Message.create(body: "hello", user: User.first)
 Message.create(body: "im a message", user: User.last)
 Message.create(body: "message", user: User.first)
 Message.create(body: "hello", user: User.last)
-
