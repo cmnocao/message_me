@@ -40,7 +40,6 @@ end
 group :production do
   gem 'redis', '~> 4.0'
   gem 'pg'
-  gem 'yarn'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
