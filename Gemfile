@@ -41,6 +41,7 @@ group :production do
   gem 'redis', '~> 4.0'
   gem 'pg'
   gem 'rails_12factor'
+  gem 'jquery-rails'
 end
 
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
